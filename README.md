@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @Aaditya
-- 👀 I’m interested in python and cybersecurity
-- 🌱 I’m currently learning python 
-  
+## Hi 👋 I'm Aaditya
 
-<!---
-Aaditya-byte/Aaditya-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm learning programming and building consistency through regular coding.
+
+### 🚀 What I'm working on
+- Practicing Python fundamentals
+- Solving problems regularly
+- Building small programs
+
+### 🛠 Tech Stack
+- Python
+
+### 📌 Goals
+- Code regularly
+- Improve problem-solving
+- Build useful projects
